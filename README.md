@@ -1,2 +1,2 @@
 # Graph generating
-There are some graph generators with block/plant-partition graph properties
+There are some graph generators with block/plant-partition graph properties.
